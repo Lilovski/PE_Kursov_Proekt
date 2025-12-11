@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sklad_KP/sklad_KP.vcxproj" Id="3e64871e-5714-420e-b8c8-0aa2be83cf19" />
+</Solution>
